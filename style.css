@@ -1,0 +1,47 @@
+img.pineapple-right {
+    float: right;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+div.container-right {
+    width: 600px;
+    height: 100%;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+div.container-left {
+    width: 600px;
+    height: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+img.pineapple-left {
+    float: left;
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+p.left-paragraph {
+    margin-left: 170px;
+}
+
+div.container-none {
+    width: 600px;
+    height: 100%;
+    border: 1px solid black;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+img.pineapple-none {
+    width: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    float: none;
+}
